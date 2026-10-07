@@ -1,0 +1,10 @@
+{
+  "description": "Offers premium laundry pickup and delivery services in Kigali for hotel guests, Airbnb visitors, and residents, ensuring fast, convenient, and professional care.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
